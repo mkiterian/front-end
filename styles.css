@@ -4,3 +4,10 @@ body {
 	font-family: "Segoe Ui";
 }
 
+#page_background {
+	position: fixed;
+	width: 880px;
+	height: 100%;
+	margin: 0px;
+	padding: 0px
+}
